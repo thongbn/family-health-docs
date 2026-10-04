@@ -12,4 +12,4 @@ Nút “In báo cáo” mở hộp thoại in của trình duyệt, có styleshe
 
 Nguồn tham khảo nằm cuối trang. Nội dung thị trường và giá MEDLATEC là công bố nhà cung cấp; ma trận và roadmap là phân tích/giả thuyết, không phải cam kết thương mại. Mốc già hóa 2034 dựa trên dự báo NSO/UNFPA công bố 2025, khác tài liệu cũ dùng 2036.
 
-Cuộc trò chuyện truy xuất được không có attachment ảnh gốc và workspace không có `/mnt/data/family_health_report`. Ba sơ đồ ecosystem, gap map và hub model được dựng lại mới bằng SVG. Ảnh hero được tạo mới bằng AI. Không sửa dữ liệu trong `sources/`.
+Ba sơ đồ ecosystem, gap map và hub model được dựng mới bằng SVG. Ảnh hero là minh họa tạo bằng AI.
